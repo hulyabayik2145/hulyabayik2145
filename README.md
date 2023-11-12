@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba 👋
 
 
 
@@ -12,8 +12,11 @@
 
 ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡
 
+<h2>Github Stats</h2>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hulyabayik2145&show_icons=true&theme=radical)
+
+<h2>Tech stack</h2>
 
 <div>
 <img src="istockphoto-1300888546-612x612.jpg" width="35%" >
