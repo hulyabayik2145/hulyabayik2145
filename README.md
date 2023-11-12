@@ -15,9 +15,11 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hulyabayik2145&show_icons=true&theme=radical)
 
+<div>
+<img src="istockphoto-1300888546-612x612.jpg" width="35%">
 
-<img src="istockphoto-1300888546-612x612.jpg" width="25%">
-
+<img src="18101578-php-programming-button-3d-.jpg" width="25%" height="55%">
+</div>
 
 
 
