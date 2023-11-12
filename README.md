@@ -14,6 +14,10 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hulyabayik2145&show_icons=true&theme=radical)
-<img src="istockphoto-1300888546-612x612.jpg" width="50%">
+
+
+<img src="istockphoto-1300888546-612x612.jpg" width="25%">
+
+
 
 
