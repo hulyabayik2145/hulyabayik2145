@@ -5,7 +5,7 @@
 
  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡  ⚡
  
-- 🔭 Ben,çalıştığım firma olan İzmad Bilişim (Waaynet) için masaüstü uygulama geliştiriyorum.
+- 🔭 Ben,çalıştığım firma olan İzmad Bilişim (Waaynet) için web uygulaması geliştiriyorum.
 - 🌱 Aynı zamanda Udemig'den Frontend React eğitimi alıyorum.
 - 💬 Bana hulya.bayik@hotmail.com ve
 - 💬 linkedin.com/in/hulyabayik/ dan ulaşabilirsiniz
